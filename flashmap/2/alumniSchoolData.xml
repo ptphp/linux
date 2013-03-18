@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AreaData>
+<AreaItem AreaID="0" dx="5" zx="海 南" xx="0" yy="0"/>
+<AreaItem AreaID="1" dx="0" zx="澳 门" xx="0" yy="0"/>
+<AreaItem AreaID="2" dx="13" zx="香 港" xx="0" yy="0"/>
+<AreaItem AreaID="3" dx="56" zx="台 湾" xx="0" yy="0"/>
+<AreaItem AreaID="4" dx="12" zx="广 西" xx="0" yy="0"/>
+<AreaItem AreaID="5" dx="64" zx="广 东" xx="0" yy="0"/>
+<AreaItem AreaID="6" dx="3" zx="云 南" xx="0" yy="0"/>
+<AreaItem AreaID="7" dx="10" zx="福 建" xx="0" yy="0"/>
+<AreaItem AreaID="8" dx="1" zx="贵 州" xx="0" yy="0"/>
+<AreaItem AreaID="9" dx="22" zx="湖 南" xx="0" yy="0"/>
+<AreaItem AreaID="10" dx="5" zx="江 西" xx="0" yy="0"/>
+<AreaItem AreaID="11" dx="28" zx="浙 江" xx="0" yy="0"/>
+<AreaItem AreaID="12" dx="8" zx="重 庆" xx="0" yy="0"/>
+<AreaItem AreaID="13" dx="31" zx="湖 北" xx="0" yy="0"/>
+<AreaItem AreaID="14" dx="24" zx="四 川" xx="0" yy="0"/>
+<AreaItem AreaID="15" dx="11" zx="安 徽" xx="0" yy="0"/>
+<AreaItem AreaID="16" dx="76" zx="上 海" xx="0" yy="0"/>
+<AreaItem AreaID="17" dx="0" zx="西 藏" xx="0" yy="0"/>
+<AreaItem AreaID="18" dx="16" zx="河 南" xx="0" yy="0"/>
+<AreaItem AreaID="19" dx="45" zx="江 苏" xx="0" yy="0"/>
+<AreaItem AreaID="20" dx="12" zx="陕 西" xx="0" yy="0"/>
+<AreaItem AreaID="21" dx="0" zx="青 海" xx="0" yy="0"/>
+<AreaItem AreaID="22" dx="25" zx="山 东" xx="0" yy="0"/>
+<AreaItem AreaID="23" dx="0" zx="宁 夏" xx="0" yy="0"/>
+<AreaItem AreaID="24" dx="2" zx="山 西" xx="0" yy="0"/>
+<AreaItem AreaID="25" dx="10" zx="河 北" xx="0" yy="0"/>
+<AreaItem AreaID="26" dx="14" zx="天 津" xx="0" yy="0"/>
+<AreaItem AreaID="27" dx="3" zx="甘 肃" xx="0" yy="0"/>
+<AreaItem AreaID="28" dx="2" zx="内蒙古" xx="0" yy="0"/>
+<AreaItem AreaID="29" dx="104" zx="北 京" xx="0" yy="0"/>
+<AreaItem AreaID="30" dx="32" zx="辽 宁" xx="0" yy="0"/>
+<AreaItem AreaID="31" dx="1" zx="新 疆" xx="0" yy="0"/>
+<AreaItem AreaID="32" dx="10" zx="吉 林" xx="0" yy="0"/>
+<AreaItem AreaID="33" dx="7" zx="黑龙江" xx="0" yy="0"/>
+</AreaData>
